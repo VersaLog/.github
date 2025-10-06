@@ -1,7 +1,7 @@
 # Hi! This is VersaLog.
 
 - Questions [GitHub Discussions](https://github.com/orgs/VersaLog/discussions)
-- Discord [join](https://discord.gg/KgaBbDX4)
+- Discord [join](https://discord.gg/MaWeRFxa)
 
 ## Owner
 
