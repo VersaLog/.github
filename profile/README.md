@@ -4,6 +4,9 @@
 - Discord [join](https://discord.gg/MaWeRFxa)
 - Announcements [X](https://x.com/LogVersa81950)
 
+## Links
+[![Qiita](https://img.shields.io/badge/Qiita-Versatile-brightgreen?logo=qiita)](https://qiita.com/organizations/versatile)
+
 ## Repositories
 - [Python](https://github.com/VersaLog/VersaLog.py)
 - [Ruby](https://github.com/VersaLog/VersaLog.rb)
@@ -13,9 +16,10 @@
 
 ## Owner
 
-- [瀬々](https://github.com/kayu0514)
 - [ₖₐₑ𝒹ₑ](https://github.com/kaedeek)
 
 ## Contributors
 
 - [yomi4486](https://github.com/yomi4486)
+- [kaminuma](https://github.com/kaminuma)
+- [瀬々](https://github.com/kayu0514)
