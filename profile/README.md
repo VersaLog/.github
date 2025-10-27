@@ -1,7 +1,8 @@
 # Hi! This is VersaLog.
 
+- Documents [VersaLog Site](https://versalog.github.io/)
 - Questions [GitHub Discussions](https://github.com/orgs/VersaLog/discussions)
-- Discord [join](https://discord.gg/MaWeRFxa)
+- Discord [join](https://discord.gg/Et2GNZUb)
 - Announcements [X](https://x.com/LogVersa81950)
 
 ## Links
