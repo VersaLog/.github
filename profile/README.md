@@ -19,8 +19,11 @@
 
 - [ₖₐₑ𝒹ₑ](https://github.com/kaedeek)
 
-## Contributors
-
+## Member
 - [yomi4486](https://github.com/yomi4486)
 - [kaminuma](https://github.com/kaminuma)
 - [瀬々](https://github.com/kayu0514)
+
+## Contributors
+
+- [xlebovoz](https://github.com/xlebovoz)
