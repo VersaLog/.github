@@ -13,6 +13,7 @@
 - [Python](https://github.com/VersaLog/VersaLog.py)
 - [Ruby](https://github.com/VersaLog/VersaLog.rb)
 - [JavaScript](https://github.com/VersaLog/VersaLog.js)
+- [Dart](https://github.com/VersaLog/VersaLog.dart)
 - [Golang](https://github.com/VersaLog/VersaLog.go)
 - [Rust](https://github.com/VersaLog/VersaLog.rs)
 
