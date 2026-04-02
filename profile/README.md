@@ -34,3 +34,4 @@
 ## Contributors
 
 - [xlebovoz](https://github.com/xlebovoz)
+- [r1tar](https://github.com/r1tar)
