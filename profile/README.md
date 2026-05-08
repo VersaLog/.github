@@ -27,12 +27,12 @@
 - [ₖₐₑ𝒹ₑ](https://github.com/kaedeek)
 
 ## Member
-- [yomi4486](https://github.com/yomi4486)
 - [kaminuma](https://github.com/kaminuma)
 - [瀬々](https://github.com/kayu0514)
 
 ## Contributors
 
+- [yomi4486](https://github.com/yomi4486)
 - [xlebovoz](https://github.com/xlebovoz)
 - [r1tar](https://github.com/r1tar)
 - [komoike-oss28-ui](https://github.com/komoike-oss28-ui)
