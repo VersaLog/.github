@@ -2,7 +2,7 @@
 
 - Documents [VersaLog Site](https://versalog.github.io/)
 - Questions [GitHub Discussions](https://github.com/orgs/VersaLog/discussions)
-- Discord [join](https://discord.gg/Ms2ejEES)
+- Discord [join](https://discord.gg/5Jw5EkxmQv)
 - Announcements [X](https://x.com/LogVersa81950)
 
 ## Links
